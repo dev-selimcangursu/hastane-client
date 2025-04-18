@@ -6,12 +6,15 @@
 			<div class="col-lg-6 col-md-12 col-xl-7">
 				<div class="block">
 					<div class="divider mb-3"></div>
-					<span class="text-uppercase text-sm letter-spacing ">Güzelliğinize değer katın, kendinize olan güveninizi artırın!</span>
-					<h1 class="mb-3 mt-3">Your most trusted health partner</h1>
+					<span class="text-uppercase text-sm letter-spacing">Güzelliğinize değer katın, kendinize olan güveninizi artırın!</span>
+					<h1 class="mb-3 mt-3">En Güvendiğiniz Estetik ve Güzellik Ortağınız</h1>
 					
-					<p class="mb-4 pr-5">A repudiandae ipsam labore ipsa voluptatum quidem quae laudantium quisquam aperiam maiores sunt fugit, deserunt rem suscipit placeat.</p>
-					<div class="btn-container ">
-						<a href="appoinment.html" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">Make appoinment <i class="icofont-simple-right ml-2  "></i></a>
+					<p class="mb-4 pr-5">Uzman kadromuzla, doğal güzelliğinizi ön plana çıkarıyor, estetik çözümlerle hayalinizdeki görünüme kavuşmanızı sağlıyoruz. Siz de kendinizi yeniden keşfedin!</p>
+					
+					<div class="btn-container">
+						<a href="appoinment.html" target="_blank" class="btn btn-main-2 btn-icon btn-round-full">
+							Randevu Al <i class="icofont-simple-right ml-2"></i>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -23,103 +26,73 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="feature-block d-lg-flex">
+				
+					<!-- Online Randevu -->
 					<div class="feature-item mb-5 mb-lg-0">
 						<div class="feature-icon mb-4">
 							<i class="icofont-surgeon-alt"></i>
 						</div>
-						<span>24 Hours Service</span>
-						<h4 class="mb-3">Online Appoinment</h4>
-						<p class="mb-4">Get ALl time support for emergency.We have introduced the principle of family medicine.</p>
-						<a href="appoinment.html" class="btn btn-main btn-round-full">Make a appoinment</a>
+						<span>7/24 Hizmet</span>
+						<h4 class="mb-3">Online Randevu</h4>
+						<p class="mb-4">Acil durumlar için her zaman yanınızdayız. Online randevu sistemiyle size en hızlı şekilde hizmet sunuyoruz.</p>
+						<a href="appoinment.html" class="btn btn-main btn-round-full">Randevu Al</a>
 					</div>
 				
+					<!-- Çalışma Saatleri -->
 					<div class="feature-item mb-5 mb-lg-0">
 						<div class="feature-icon mb-4">
 							<i class="icofont-ui-clock"></i>
 						</div>
-						<span>Timing schedule</span>
-						<h4 class="mb-3">Working Hours</h4>
+						<span>Çalışma Saatlerimiz</span>
+						<h4 class="mb-3">Hizmet Saatleri</h4>
 						<ul class="w-hours list-unstyled">
-							<li class="d-flex justify-content-between">Sun - Wed : <span>8:00 - 17:00</span></li>
-							<li class="d-flex justify-content-between">Thu - Fri : <span>9:00 - 17:00</span></li>
-							<li class="d-flex justify-content-between">Sat - sun : <span>10:00 - 17:00</span></li>
+							<li class="d-flex justify-content-between">Pazartesi - Çarşamba : <span>08:00 - 17:00</span></li>
+							<li class="d-flex justify-content-between">Perşembe - Cuma : <span>09:00 - 17:00</span></li>
+							<li class="d-flex justify-content-between">Cumartesi - Pazar : <span>10:00 - 17:00</span></li>
 						</ul>
 					</div>
 				
+					<!-- Acil Durumlar -->
 					<div class="feature-item mb-5 mb-lg-0">
 						<div class="feature-icon mb-4">
 							<i class="icofont-support"></i>
 						</div>
-						<span>Emegency Cases</span>
+						<span>Acil Durumlar</span>
 						<h4 class="mb-3">1-800-700-6200</h4>
-						<p>Get ALl time support for emergency.We have introduced the principle of family medicine.Get Conneted with us for any urgency .</p>
+						<p>Acil estetik ihtiyaçlarınız için 7/24 destek sunuyoruz. Uzman ekibimizle her zaman yanınızdayız.</p>
 					</div>
+					
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-
-
 <section class="section about">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-4 col-sm-6">
 				<div class="about-img">
-					<img src="images/about/img-1.jpg" alt="" class="img-fluid">
-					<img src="images/about/img-2.jpg" alt="" class="img-fluid mt-4">
+					<img src="https://img.freepik.com/free-photo/view-from-rejuvenation-beautiful-woman-enjoying-cosmetology-procedures-beauty-salon-dermatology-hands-blue-glows-healthcare-therapy-botox_197531-2783.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="Estetik uygulama görseli" class="img-fluid">
+					<img src="https://img.freepik.com/free-photo/doctor-with-patient-wearing-cap_23-2147646052.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="Güzellik merkezi iç mekanı" class="img-fluid mt-4">
 				</div>
 			</div>
 			<div class="col-lg-4 col-sm-6">
 				<div class="about-img mt-4 mt-lg-0">
-					<img src="images/about/img-3.jpg" alt="" class="img-fluid">
+					<img src="https://img.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827776.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="Mutlu müşteri görseli" class="img-fluid">
 				</div>
 			</div>
+
 			<div class="col-lg-4">
 				<div class="about-content pl-4 mt-4 mt-lg-0">
-					<h2 class="title-color">Personal care <br>& healthy living</h2>
-					<p class="mt-4 mb-5">We provide best leading medicle service Nulla perferendis veniam deleniti ipsum officia dolores repellat laudantium obcaecati neque.</p>
+					<h2 class="title-color">Kişisel Bakım<br>ve Sağlıklı Güzellik</h2>
+					<p class="mt-4 mb-5">Güzelliğinizi ön planda tutarak, size özel çözümler sunuyoruz. Estetik uygulamalarımızla hem görünümünüzü hem de özgüveninizi yeniliyoruz. Uzman kadromuzla güvenilir hizmet anlayışını benimsiyoruz.</p>
 
-					<a href="service.html" class="btn btn-main-2 btn-round-full btn-icon">Services<i class="icofont-simple-right ml-3"></i></a>
+					<a href="service.html" class="btn btn-main-2 btn-round-full btn-icon">
+						Hizmetlerimiz <i class="icofont-simple-right ml-3"></i>
+					</a>
 				</div>
 			</div>
-		</div>
-	</div>
-</section>
-<section class="cta-section ">
-	<div class="container">
-		<div class="cta position-relative">
-			<div class="row">
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-doctor"></i>
-						<span class="h3 counter" data-count="58">0</span>k
-						<p>Happy People</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-flag"></i>
-						<span class="h3 counter" data-count="700">0</span>+
-						<p>Surgery Comepleted</p>
-					</div>
-				</div>
-				
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-badge"></i>
-						<span class="h3 counter" data-count="40">0</span>+
-						<p>Expert Doctors</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6">
-					<div class="counter-stat">
-						<i class="icofont-globe"></i>
-						<span class="h3 counter" data-count="20">0</span>
-						<p>Worldwide Branch</p>
-					</div>
-				</div>
-			</div>
+			
 		</div>
 	</div>
 </section>
@@ -128,9 +101,9 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-7 text-center">
 				<div class="section-title">
-					<h2>Award winning patient care</h2>
+					<h2>Hizmetlerimiz</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Estetik ve güzellik alanındaki uzmanlığımızla, kendinizi en iyi şekilde hissetmeniz için buradayız. Size özel çözümlerle doğal güzelliğinizi ortaya çıkarıyoruz.</p>
 				</div>
 			</div>
 		</div>
@@ -138,87 +111,84 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-laboratory text-lg"></i>
-						<h4 class="mt-3 mb-3">Laboratory services</h4>
+					<div class="icon  align-items-center text-center">
+					    <img style="width: 100%" src="https://img.freepik.com/free-photo/close-up-doctor-checking-smiley-woman_23-2149103555.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="">
+						<h4 class="mt-3 mb-3">Yüz Estetiği</h4>
 					</div>
-
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-4 col-md-6 col-sm-6">
-				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-heart-beat-alt text-lg"></i>
-						<h4 class="mt-3 mb-3">Heart Disease</h4>
-					</div>
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+					<div class="content text-center">
+						<p class="mb-4">Burun estetiği, yüz germe, göz kapağı estetiği ve benzeri uygulamalarla daha genç, canlı ve dengeli bir yüz görünümü sunuyoruz.</p>
 					</div>
 				</div>
 			</div>
-			
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-tooth text-lg"></i>
-						<h4 class="mt-3 mb-3">Dental Care</h4>
+					<div class="icon  align-items-center text-center">
+					    <img style="width: 100%" src="https://img.freepik.com/free-photo/woman-black-underwear-measuring-her-waist-with-meter-tape-isolated-white-wall_231208-3828.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="">
+						<h4 class="mt-3 mb-3">Vücut Estetiği</h4>
 					</div>
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-					</div>
-				</div>
-			</div>
-
-
-			<div class="col-lg-4 col-md-6 col-sm-6">
-				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-crutch text-lg"></i>
-						<h4 class="mt-3 mb-3">Body Surgery</h4>
-					</div>
-
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-4 col-md-6 col-sm-6">
-				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-brain-alt text-lg"></i>
-						<h4 class="mt-3 mb-3">Neurology Sargery</h4>
-					</div>
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+					<div class="content text-center">
+						<p class="mb-4">Vücut şekillendirme, liposuction ve karın germe gibi uygulamalarla daha fit, dengeli ve estetik bir görünüme ulaşmanızı sağlıyoruz.</p>
 					</div>
 				</div>
 			</div>
 			
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="service-item mb-4">
-					<div class="icon d-flex align-items-center">
-						<i class="icofont-dna-alt-1 text-lg"></i>
-						<h4 class="mt-3 mb-3">Gynecology</h4>
+					<div class="icon  align-items-center text-center">
+					    <img style="width: 100%" src="https://img.freepik.com/free-photo/woman-marked-out-cosmetic-surgery_273609-14510.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="">
+						<h4 class="mt-3 mb-3">Gögüs Estetiği</h4>
 					</div>
-					<div class="content">
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+					<div class="content text-center">
+						<p class="mb-4">Göğüs büyütme, küçültme ve dikleştirme operasyonlarımızla vücut oranlarınıza uygun, doğal ve estetik bir görünüm elde etmenizi sağlıyoruz.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="service-item mb-4">
+					<div class="icon  align-items-center text-center">
+					    <img style="width: 100%" src="https://img.freepik.com/free-photo/beautiful-young-woman-getting-botox-cosmetic-injection-her-face_1301-7520.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="">
+						<h4 class="mt-3 mb-3">Medikal Estetiği</h4>
+					</div>
+					<div class="content text-center">
+						<p class="mb-4">Cerrahi müdahaleye gerek kalmadan, gençleşmenizi ve cildinizin yenilenmesini sağlayan modern medikal estetik uygulamaları sunuyoruz.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="service-item mb-4">
+					<div class="icon  align-items-center text-center">
+					    <img style="width: 100%" src="https://img.freepik.com/free-photo/laser-epilation-hair-removal-therapy_1303-23487.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="">
+						<h4 class="mt-3 mb-3">Lazer Estetiği</h4>
+					</div>
+					<div class="content text-center">
+						<p class="mb-4">Cilt gençleştirme, leke tedavisi ve epilasyon gibi lazer uygulamalarımızla pürüzsüz, canlı ve sağlıklı bir cilde ulaşmanızı sağlıyoruz.</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-4 col-md-6 col-sm-6">
+				<div class="service-item mb-4">
+					<div class="icon  align-items-center text-center">
+					    <img style="width: 100%" src="https://img.freepik.com/free-photo/beautiful-woman-getting-beauty-treatment_329181-18790.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="">
+						<h4 class="mt-3 mb-3">Cilt Bakımı</h4>
+					</div>
+					<div class="content text-center">
+						<p class="mb-4">Cilt tipinize özel bakım uygulamalarıyla; nem dengesini sağlıyor, gözenekleri temizliyor ve sağlıklı, parlak bir cilde kavuşmanıza yardımcı oluyoruz.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
+
 <section class="section appoinment">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-6 ">
 				<div class="appoinment-content">
-					<img src="images/about/img-3.jpg" alt="" class="img-fluid">
+					<img src="https://img.freepik.com/free-photo/beautician-with-brush-applies-white-moisturizing-mask-face-young-girl-client-spa-beauty-salon_343596-4248.jpg?ga=GA1.1.1570591958.1744988970&semt=ais_hybrid&w=740" alt="" class="img-fluid">
 					<div class="emergency">
 						<h2 class="text-lg"><i class="icofont-phone-circle text-lg"></i>+23 345 67980</h2>
 					</div>
@@ -226,81 +196,58 @@
 			</div>
 			<div class="col-lg-6 col-md-10 ">
 				<div class="appoinment-wrap mt-5 mt-lg-0">
-					<h2 class="mb-2 title-color">Book appoinment</h2>
-					<p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
+					<h2 class="mb-2 title-color">Randevu Al</h2>
+					<p class="mb-4">Güzelliğinize değer katmak ve kendinizi yeniden keşfetmek için estetik uzmanlarımızla randevu alabilirsiniz. Sizi en kısa sürede arayarak işlem detayları hakkında bilgilendireceğiz.</p>
 					     <form id="#" class="appoinment-form" method="post" action="#">
                     <div class="row">
                          <div class="col-lg-6">
                             <div class="form-group">
                                 <select class="form-control" id="exampleFormControlSelect1">
-                                  <option>Choose Department</option>
-                                  <option>Software Design</option>
-                                  <option>Development cycle</option>
-                                  <option>Software Development</option>
-                                  <option>Maintenance</option>
-                                  <option>Process Query</option>
-                                  <option>Cost and Duration</option>
-                                  <option>Modal Delivery</option>
+                                  <option>Departman Seçin</option>
+                                  <option>Cilt Bakımı</option>
+                                  <option>Vücut Estetiği</option>
+                                  <option>Yüz Estetiği</option>
+                                  <option>Göğüs Estetiği</option>
+                                  <option>Lazer Uygulamaları</option>
+                                  <option>Medikal Estetik</option>
+                                  <option>Vücut Şekillendirme</option>
                                 </select>
                             </div>
                         </div>
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <select class="form-control" id="exampleFormControlSelect2">
-                                  <option>Select Doctors</option>
-                                  <option>Software Design</option>
-                                  <option>Development cycle</option>
-                                  <option>Software Development</option>
-                                  <option>Maintenance</option>
-                                  <option>Process Query</option>
-                                  <option>Cost and Duration</option>
-                                  <option>Modal Delivery</option>
-                                </select>
-                            </div>
-                        </div>
-
+   
+      
                          <div class="col-lg-6">
                             <div class="form-group">
-                                <input name="date" id="date" type="text" class="form-control" placeholder="dd/mm/yyyy">
+                                <input name="name" id="name" type="text" class="form-control" placeholder="Ad Soyad">
                             </div>
                         </div>
 
-                        <div class="col-lg-6">
+                        <div class="col-lg-12">
                             <div class="form-group">
-                                <input name="time" id="time" type="text" class="form-control" placeholder="Time">
-                            </div>
-                        </div>
-                         <div class="col-lg-6">
-                            <div class="form-group">
-                                <input name="name" id="name" type="text" class="form-control" placeholder="Full Name">
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6">
-                            <div class="form-group">
-                                <input name="phone" id="phone" type="Number" class="form-control" placeholder="Phone Number">
+                                <input name="phone" id="phone" type="Number" class="form-control" placeholder="Telefon Numarası">
                             </div>
                         </div>
                     </div>
                     <div class="form-group-2 mb-4">
-                        <textarea name="message" id="message" class="form-control" rows="6" placeholder="Your Message"></textarea>
+                        <textarea name="message" id="message" class="form-control" rows="6" placeholder="Mesajınız"></textarea>
                     </div>
 
-                    <a class="btn btn-main btn-round-full" href="appoinment.html" >Make Appoinment <i class="icofont-simple-right ml-2  "></i></a>
+                    <a class="btn btn-main btn-round-full" href="appoinment.html" >Randevu Al <i class="icofont-simple-right ml-2  "></i></a>
                 </form>
             </div>
 			</div>
 		</div>
 	</div>
 </section>
+
 <section class="section testimonial-2 gray-bg">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-7">
 				<div class="section-title text-center">
-					<h2>We served over 5000+ Patients</h2>
+					<h2>Blog Yazılarımız</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>Güncel sağlık ve estetik konularında yazılarımızla sizlere yardımcı oluyoruz. Yeni blog yazılarımızı takip edin ve sağlıklı yaşam hakkında daha fazla bilgi edinin.</p>
 				</div>
 			</div>
 		</div>
@@ -311,33 +258,29 @@
 			<div class="col-lg-12 testimonial-wrap-2">
 				<div class="testimonial-block style-2  gray-bg">
 					<i class="icofont-quote-right"></i>
-
 					<div class="testimonial-thumb">
 						<img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
 					</div>
-
 					<div class="client-info ">
-						<h4>Amazing service!</h4>
-						<span>John Partho</span>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+						<h4 id="blog-title-1">Estetik Cerrahisi Hakkında Her Şey!</h4>
+						<span id="blog-author-1">John Partho - 22 Mart 2025</span>
+						<p id="blog-text-1">
+							Estetik cerrahisi, sadece dış görünüşü değiştirmekle kalmaz, aynı zamanda özgüveninizi arttırır. Modern cerrahi yöntemler ile kalıcı çözümler sunuyoruz. Estetik operasyonlar hakkında bilmeniz gerekenler!
 						</p>
 					</div>
 				</div>
-
 				<div class="testimonial-block style-2  gray-bg">
 					<div class="testimonial-thumb">
 						<img src="images/team/test-thumb2.jpg" alt="" class="img-fluid">
 					</div>
 
-					<div class="client-info">
-						<h4>Expert doctors!</h4>
-						<span>Mullar Sarth</span>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+					<div class="client-info ">
+						<h4 id="blog-title-1">Estetik Cerrahisi Hakkında Her Şey!</h4>
+						<span id="blog-author-1">John Partho - 22 Mart 2025</span>
+						<p id="blog-text-1">
+							Estetik cerrahisi, sadece dış görünüşü değiştirmekle kalmaz, aynı zamanda özgüveninizi arttırır. Modern cerrahi yöntemler ile kalıcı çözümler sunuyoruz. Estetik operasyonlar hakkında bilmeniz gerekenler!
 						</p>
-					</div>
-					
+					</div>		
 					<i class="icofont-quote-right"></i>
 				</div>
 
@@ -345,12 +288,11 @@
 					<div class="testimonial-thumb">
 						<img src="images/team/test-thumb3.jpg" alt="" class="img-fluid">
 					</div>
-
-					<div class="client-info">
-						<h4>Good Support!</h4>
-						<span>Kolis Mullar</span>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+					<div class="client-info ">
+						<h4 id="blog-title-1">Estetik Cerrahisi Hakkında Her Şey!</h4>
+						<span id="blog-author-1">John Partho - 22 Mart 2025</span>
+						<p id="blog-text-1">
+							Estetik cerrahisi, sadece dış görünüşü değiştirmekle kalmaz, aynı zamanda özgüveninizi arttırır. Modern cerrahi yöntemler ile kalıcı çözümler sunuyoruz. Estetik operasyonlar hakkında bilmeniz gerekenler!
 						</p>
 					</div>
 					
@@ -362,26 +304,24 @@
 						<img src="images/team/test-thumb4.jpg" alt="" class="img-fluid">
 					</div>
 
-					<div class="client-info">
-						<h4>Nice Environment!</h4>
-						<span>Partho Sarothi</span>
-						<p class="mt-4">
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+					<div class="client-info ">
+						<h4 id="blog-title-1">Estetik Cerrahisi Hakkında Her Şey!</h4>
+						<span id="blog-author-1">John Partho - 22 Mart 2025</span>
+						<p id="blog-text-1">
+							Estetik cerrahisi, sadece dış görünüşü değiştirmekle kalmaz, aynı zamanda özgüveninizi arttırır. Modern cerrahi yöntemler ile kalıcı çözümler sunuyoruz. Estetik operasyonlar hakkında bilmeniz gerekenler!
 						</p>
 					</div>
 					<i class="icofont-quote-right"></i>
 				</div>
-
 				<div class="testimonial-block style-2  gray-bg">
 					<div class="testimonial-thumb">
 						<img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
 					</div>
-
-					<div class="client-info">
-						<h4>Modern Service!</h4>
-						<span>Kolis Mullar</span>
-						<p>
-							They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+					<div class="client-info ">
+						<h4 id="blog-title-1">Estetik Cerrahisi Hakkında Her Şey!</h4>
+						<span id="blog-author-1">John Partho - 22 Mart 2025</span>
+						<p id="blog-text-1">
+							Estetik cerrahisi, sadece dış görünüşü değiştirmekle kalmaz, aynı zamanda özgüveninizi arttırır. Modern cerrahi yöntemler ile kalıcı çözümler sunuyoruz. Estetik operasyonlar hakkında bilmeniz gerekenler!
 						</p>
 					</div>
 					<i class="icofont-quote-right"></i>
@@ -390,72 +330,5 @@
 		</div>
 	</div>
 </section>
-<section class="section clients">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-7">
-				<div class="section-title text-center">
-					<h2>Partners who support us</h2>
-					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="container">
-		<div class="row clients-logo">
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/1.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/2.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/3.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/4.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/5.png" alt="" class="img-fluid">
-				</div>
-			</div>
-			<div class="col-lg-2">
-				<div class="client-thumb">
-					<img src="images/about/6.png" alt="" class="img-fluid">
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 @endsection
