@@ -41,10 +41,9 @@
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="#!">Hakkımızda</a></li>
-						<li><a href="#!">İletişim</a></li>
+						<li><a href="{{route('about')}}">Hakkımızda</a></li>
+						<li><a href="{{route('contact')}}">İletişim</a></li>
 						<li><a href="#!">Çerez Politikası </a></li>
-						<li><a href="#!">Randevu Alın</a></li>
 						<li><a href="#!">Gizlilik Politikası</a></li>
                         <li><a href="#!">Kişisel Verilerin Korunması</a></li>
 					</ul>
