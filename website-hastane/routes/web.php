@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\BlogController;
+use App\Http\Controllers\ContactController;
 use App\Http\Controllers\IndexController;
 use App\Http\Controllers\ServiceController;
 use Illuminate\Support\Facades\Route;
@@ -16,3 +17,4 @@ Route::get('/hakkimizda',[AboutController::class,'index'])->name('about');
 
 Route::get('/blog',[BlogController::class,'index'])->name('blogs');
 Route::get('/blog/detail/{slug}',[BlogController::class,'detail'])->name('blog.detail');
+Route::get('/iletisim',[ContactController::class,'index'])->name('contact');

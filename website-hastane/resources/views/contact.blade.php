@@ -1,0 +1,105 @@
+@extends('partials.master')
+@section('main')
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <span class="text-white">Bize Ulaşın</span>
+                    <h1 class="text-capitalize mb-5 text-lg">İletişime Geçin</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section contact-info pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-block mb-4 mb-lg-0">
+                    <i class="icofont-live-support"></i>
+                    <h5>Bizi Arayın</h5>
+                    +823-4565-13456
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-block mb-4 mb-lg-0">
+                    <i class="icofont-support-faq"></i>
+                    <h5>Bize E-posta Gönderin</h5>
+                    contact@mail.com
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="contact-block mb-4 mb-lg-0">
+                    <i class="icofont-location-pin"></i>
+                    <h5>Konum</h5>
+                    North Main Street, Brooklyn, Avustralya
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="contact-form-wrap section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title text-center">
+                    <h2 class="text-md mb-2">Bize Ulaşın</h2>
+                    <div class="divider mx-auto my-4"></div>
+                    <p class="mb-5">Laboriosam exercitationem molestias beatae eos pariatur, similique, excepturi mollitia sit
+                      perferendis maiores ratione aliquam?</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <form id="contact-form" class="contact__form" method="post" action="mail.php">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="alert alert-success contact__msg" style="display: none" role="alert">
+                                Mesajınız başarıyla gönderildi.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <input name="name" id="name" type="text" class="form-control" placeholder="Adınız Soyadınız">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <input name="email" id="email" type="email" class="form-control" placeholder="E-posta Adresiniz" required>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <input name="subject" id="subject" type="text" class="form-control" placeholder="Sorunuzun Konusu" required>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="form-group">
+                                <input name="phone" id="phone" type="text" class="form-control" placeholder="Telefon Numaranız" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group-2 mb-4">
+                        <textarea name="message" id="message" class="form-control" rows="8" placeholder="Mesajınız" required></textarea>
+                    </div>
+
+                    <div>
+                        <input class="btn btn-main btn-round-full" name="submit" type="submit" value="Mesajı Gönder"></input>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="google-map">
+    <div id="map" data-latitude="40.712776" data-longitude="-74.005974" data-marker="images/marker.png"></div>
+</div>
+@endsection
