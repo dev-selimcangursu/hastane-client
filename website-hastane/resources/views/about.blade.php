@@ -129,7 +129,6 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="team-block">
                     <img src="images/team/4.jpg" alt="Doktor 4" class="img-fluid w-100">
-
                     <div class="content">
                         <h4 class="mt-4 mb-0"><a href="doctor-single.html">Dr. Eda Özdemir</a></h4>
                         <p>Ozon Terapisi ve Cilt Gençleştirme Uzmanı</p>
