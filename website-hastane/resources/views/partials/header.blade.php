@@ -153,7 +153,7 @@
 
                     <li class="nav-item"><a class="nav-link" href="about.html">Hakkımızda</a></li>
 					<li class="nav-item"><a class="nav-link" href="service.html">Blog</a></li>
-					<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+					<li class="nav-item"><a class="nav-link" href="contact.html">İletişim</a></li>
 				</ul>
 			</div>
 		</div>
