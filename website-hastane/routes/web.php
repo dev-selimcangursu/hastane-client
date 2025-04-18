@@ -15,3 +15,4 @@ Route::get('/hizmetlerimiz/detay/{slug}',[ServiceController::class,'serviceMain'
 Route::get('/hakkimizda',[AboutController::class,'index'])->name('about');
 
 Route::get('/blog',[BlogController::class,'index'])->name('blogs');
+Route::get('/blog/detail/{slug}',[BlogController::class,'detail'])->name('blog.detail');

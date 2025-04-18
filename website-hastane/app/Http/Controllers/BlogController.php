@@ -10,4 +10,9 @@ class BlogController extends Controller
     {
         return view('blog.blogs');
     }
+
+    public function detail()
+    {
+        return view('blog.blog-detail');
+    }
 }
