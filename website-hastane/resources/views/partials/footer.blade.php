@@ -4,7 +4,7 @@
 			<div class="col-lg-3 mr-auto col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
 					<div class="logo mb-4">
-					   <h3>Asem Estetik</h3>
+					   <h3>{{$about->name}}</h3>
 					</div>
                     <p>Bu web sitesi yalnızca GitHub üzerindeki bir proje kapsamında oluşturulmuştur. Gerçek bir firma veya ticari bir amaç taşımamaktadır. İçerikler tamamen eğitimsel ve yazılım geliştirme amacıyla hazırlanmıştır.</p>
 					<ul class="list-inline footer-socials mt-4">
@@ -60,7 +60,7 @@
 							<i class="icofont-email mr-3"></i>
 							<span class="h6 mb-0">7/24 Destek</span>
 						</div>
-						<h4 class="mt-2"><a href="mailto:support@email.com">destek@asemestetik.com</a></h4>
+						<h4 class="mt-2"><a href="mailto:{{$about->email}}">{{$about->email}}</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
@@ -72,7 +72,7 @@
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Haftasonu : 10:00 - 24:00</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+						<h4 class="mt-2"><a href="tel:+23-345-67890">{{$about->phone}}</a></h4>
 					</div>
 				</div>
 			</div>
@@ -95,7 +95,6 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="row">
 				<div class="col-lg-4">
 					<a class="backtop scroll-top-to" href="#top">
